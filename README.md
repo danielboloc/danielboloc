@@ -24,7 +24,7 @@
 
 <h3 align="center">Workflows:</h3>
 <p align="center">
-<a href="https://www.nextflow.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/nextflow-io/trademark/master/nextflow2014_no-bg.png" alt="nextflow" width="90" height="40"/> </a>
+<a href="https://www.nextflow.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/nextflow-io/trademark/master/nextflow2014_no-bg.png" alt="nextflow" width="110" height="35"/> </a>
 </p>
 
 <h3 align="center">Version control:</h3>
