@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Boloc</h1>
-<h3 align="center">I'm currently a Bioinformatic Software Developer.</h3>
+<h3 align="center">I'm a Bioinformatic Software Developer.</h3>
 
 - 🔭 I'm currently working at [Stalicla][stalicla]. 
 
